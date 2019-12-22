@@ -31,3 +31,16 @@ For best results, load optimised defaults - BIOS Version 2801 (24/09/2019)
 Ryzen G CPU? Disabling CPB can help reduce audio issues.
 
     Core Performance Boost -> Disabled
+
+## Guides & Links
+
+#### Guides
+- [OpenCore Vanilla Desktop Guide](https://khronokernel-2.gitbook.io/opencore-vanilla-desktop-guide/)
+- [Catalina GPU Guide](https://khronokernel-3.gitbook.io/catalina-gpu-buyers-guide/)
+
+#### Links
+
+- [OpenCorePkg](https://github.com/acidanthera/OpenCorePkg)
+- [OpenCore Changelog](https://github.com/acidanthera/OpenCorePkg/blob/master/Changelog.md)
+- [Kext Repo](https://1drv.ms/f/s!AiP7m5LaOED-m-J8-MLJGnOgAqnjGw)
+- [CPU Name](https://github.com/corpnewt/CPU-Name)
