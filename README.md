@@ -31,26 +31,3 @@ For best results, load optimised defaults - BIOS Version 2801 (24/09/2019)
 Ryzen G CPU? Disabling CPB can help reduce audio issues.
 
     Core Performance Boost -> Disabled
-
-Guides & Links
-Guides
-
-    OpenCore Vanilla Desktop Guide
-    Catalina GPU Guide
-
-Links
-
-    OpenCorePkg
-    OpenCore Changelog
-    Kext Repo
-    CPU Name
-
-Known Issues
-
-    Internal WiFi & Bluetooth are not supported.
-
-    DRM-Protected Video (e.g Netflix) causes a system crash when watching with Safari.
-
-    FileVault is currently un-tested.
-
-13 December, 2019
